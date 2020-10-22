@@ -13,6 +13,6 @@ from wbinteract.snak import (
     PropertySomeValueSnak,
 )
 from wbinteract.value import MonolingualText, GlobeCoordinate, Quantity, Time, EntityId
-from wbinteract.util import NoValue, SomeValue
+from wbinteract.util import NoValue, SomeValue, QueryService
 
 __version__ = "0.1.0"
